@@ -1,1 +1,6 @@
+Built a decentralized finance (DeFi) platform using Solidity on Ethereum blockchain.
+Designed smart contracts for lending, borrowing, collateral management, and interest calculation.
+Applied the Factory pattern and integrated a centralized Oracle for real-time price feeds.
+Used MongoDB and server-side logic for transaction storage and notifications.
+Enabled user interactions like token allowance approvals, deposits, and withdrawals with on-chain logic.
 
