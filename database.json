@@ -1,0 +1,64 @@
+{
+  "users": {
+    "44616": {
+      "email": "z5442121@ad.unsw.edu.au",
+      "name": "Anna",
+      "password": "Anna",
+      "image": null,
+      "admin": true,
+      "dob": "1995-04-12",
+      "gender": "female",
+      "phone": "0400 123 456"
+    },
+    "46021": {
+      "email": "augustine@email.com",
+      "name": "Augustine",
+      "password": "august",
+      "image": null,
+      "admin": false,
+      "dob": "1988-11-23",
+      "gender": "male",
+      "phone": "0411 654 321"
+    },
+    "82827": {
+      "email": "james@email.com",
+      "name": "James",
+      "password": "betty",
+      "image": null,
+      "admin": false,
+      "dob": "1992-07-15",
+      "gender": "male",
+      "phone": "0422 333 444"
+    },
+    "88006": {
+      "email": "betty@email.com",
+      "name": "Betty",
+      "password": "cardigan",
+      "image": null,
+      "admin": true,
+      "dob": "1990-09-29",
+      "gender": "female",
+      "phone": "0433 555 666"
+    },
+    "92077": {
+      "email": "happy@anna.com",
+      "name": "Annanna",
+      "password": "1234",
+      "image": null,
+      "admin": false,
+      "dob": "1999-02-11",
+      "gender": "female",
+      "phone": "0444 777 888"
+    },
+    "98005": {
+      "email": "ty@email.com",
+      "name": "Ty",
+      "password": "cardigan",
+      "image": null,
+      "admin": false,
+      "dob": "1985-06-20",
+      "gender": "male",
+      "phone": "0455 999 000"
+    }
+  }
+}
